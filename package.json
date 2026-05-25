@@ -1,0 +1,29 @@
+{
+  "name": "it_fullstack",
+  "version": "1.0.0",
+  "description": "Study full Stack course.",
+  "main": "hello.js",
+  "scripts": {
+    "format": "prettier --write *.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnmk216/it_fullstack.git"
+  },
+  "keywords": [],
+  "author": "Wanthanee P.",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wnmk216/it_fullstack/issues"
+  },
+  "homepage": "https://github.com/wnmk216/it_fullstack#readme",
+  "devDependencies": {
+    "prettier": "^3.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
